@@ -11,4 +11,4 @@ pip install pynput
 
 ## Screenshot 
 
-![Screenshot](Screenshot\Screenshot.jpg)
+![Screenshot](\Screenshot\Screenshot.jpg)
